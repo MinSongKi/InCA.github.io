@@ -5,4 +5,4 @@
 
 ### Paper
 * Minsong Ki, Youngjung Uh, Wonyoung Lee, Hyeran Byun (Yonsei University)
-* Paper: comming soon
+* Paper: [https://arxiv.org/abs/2009.12063](https://arxiv.org/abs/2009.12063, "arXiv link")
